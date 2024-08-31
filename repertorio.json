@@ -1,0 +1,15 @@
+[
+  {
+    "id": 2434,
+    "titulo": "Sex on Fire",
+    "artista": "Kings of Leon",
+    "tono": "Rock"
+  },
+  { "id": 6727, "titulo": "WonderWall", "artista": "Oasis", "tono": "Rock" },
+  {
+    "id": 5049,
+    "titulo": "Cruel Summer",
+    "artista": "Taylor Swift",
+    "tono": "Pop"
+  }
+]
